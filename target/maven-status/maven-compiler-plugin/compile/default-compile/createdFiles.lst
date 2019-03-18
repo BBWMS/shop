@@ -1,0 +1,5 @@
+com\bbw\shop\Product.class
+com\bbw\shop\ProductRepository.class
+com\bbw\shop\ShopApplication.class
+com\bbw\shop\ProductController.class
+com\bbw\shop\LoadDatabase.class
